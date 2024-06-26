@@ -1,0 +1,29 @@
+.opening-img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+.img-div{
+    background-color: #ececec;
+}
+
+.signup-btn{
+    border: none;
+    background-color: #9196ce;
+    color: white;
+    width: 100%;
+    font-size: 1.2rem;
+}
+.signup-btn:hover{
+    background-color: #494d7c;
+}
+
+.signup-title{
+    border-bottom: 3px solid #caceff;
+}
+
+.signup-container{
+    background-color: #caceff;
+}
